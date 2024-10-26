@@ -3,3 +3,5 @@
 
 tech stack
 --**Python**
+
+algorithm
